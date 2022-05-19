@@ -10,7 +10,7 @@ public class Test1 {
 		obj.greet2();
 		obj.greet3();
 		
-		System.out.println("end");
+		System.out.println("End");
 
 	}
 
