@@ -9,6 +9,8 @@ public class Test1 {
 		obj.greet1();
 		obj.greet2();
 		obj.greet3();
+		
+		System.out.println("end");
 
 	}
 
